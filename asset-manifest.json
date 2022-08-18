@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodtrends/static/css/main.e85a8867.css",
-    "main.js": "/Foodtrends/static/js/main.194d34fe.js",
+    "main.js": "/Foodtrends/static/js/main.7cb165f4.js",
     "static/media/eid.jpeg": "/Foodtrends/static/media/eid.1c6931e3d2972e17cc50.jpeg",
     "static/media/Payment-Error.jpg": "/Foodtrends/static/media/Payment-Error.e7d5e6e162a1023092e7.jpg",
     "static/media/asset 1.png": "/Foodtrends/static/media/asset 1.e87bc3c1587040117e83.png",
@@ -31,8 +31,8 @@
     "static/media/Delivery.png": "/Foodtrends/static/media/Delivery.5760b12cc39f41f1e450.png",
     "static/media/asset 50.jpeg": "/Foodtrends/static/media/asset 50.2f576979c183a72196fa.jpeg",
     "static/media/asset 58.png": "/Foodtrends/static/media/asset 58.2fd002fda06d091294ad.png",
+    "static/media/offers1.png": "/Foodtrends/static/media/offers1.0514978c44409ad68765.png",
     "static/media/about1_01.jpg": "/Foodtrends/static/media/about1_01.ff98fba8c17d2b80a7fb.jpg",
-    "static/media/offers1.jpeg": "/Foodtrends/static/media/offers1.7e62cf3328dff3c7931c.jpeg",
     "static/media/asset 56.png": "/Foodtrends/static/media/asset 56.70b553b9dfe5633550d9.png",
     "static/media/asset 60.png": "/Foodtrends/static/media/asset 60.2b7521ad38da372369b0.png",
     "static/media/fahiem.jpeg": "/Foodtrends/static/media/fahiem.408b87a70cf534149ba8.jpeg",
@@ -113,10 +113,10 @@
     "static/media/asset 84.svg": "/Foodtrends/static/media/asset 84.2a2970aa7a6f8eec6636.svg",
     "static/media/asset 100.svg": "/Foodtrends/static/media/asset 100.397a90e566900116fc6c.svg",
     "main.e85a8867.css.map": "/Foodtrends/static/css/main.e85a8867.css.map",
-    "main.194d34fe.js.map": "/Foodtrends/static/js/main.194d34fe.js.map"
+    "main.7cb165f4.js.map": "/Foodtrends/static/js/main.7cb165f4.js.map"
   },
   "entrypoints": [
     "static/css/main.e85a8867.css",
-    "static/js/main.194d34fe.js"
+    "static/js/main.7cb165f4.js"
   ]
 }
