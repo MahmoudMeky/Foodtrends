@@ -11,7 +11,7 @@ export default function DeactivateButton({ userId }) {
   return (
     <button
       onClick={onClickHandler}
-      className="rounded-lg bg-orange-400  py-1 px-4 font-bold text-white transition-all  duration-300 hover:bg-orange-600 dark:text-blue-500"
+      className="rounded-lg bg-orange-400  py-1 px-4 font-bold text-white transition-all  duration-300 hover:bg-orange-600 "
       >
       Refuse
     </button>

@@ -36,8 +36,8 @@ export default function Products() {
         <ProductsFilters />
       </div>
       <div className="relative overflow-x-auto shadow-md sm:rounded-lg">
-        <table className="w-full text-left text-sm text-gray-500 dark:text-gray-400">
-          <thead className="bg-primary text-xs uppercase text-white  dark:bg-gray-700 dark:text-gray-400">
+        <table className="w-full text-left text-sm text-gray-500 ">
+          <thead className="bg-primary text-xs uppercase text-white ">
             <tr>
               <th scope="col" className="py-3 px-3">
                 Image
@@ -74,7 +74,7 @@ export default function Products() {
                   return (
                     <tr
                       key={index}
-                      className={`border-b bg-white hover:bg-gray-50 dark:border-gray-700 dark:bg-gray-800 dark:hover:bg-gray-600`}
+                      className={`border-b bg-white hover:bg-gray-50 `}
                     >
                       <td className="py-1 px-4">
                         <img
