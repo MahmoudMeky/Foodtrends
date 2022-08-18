@@ -93,6 +93,7 @@ export default function Users() {
               {users &&
                 users.map((user, index) => {
                   return (
+                    user.userType!=="admin"&&
                     <tr
                       key={index}
                       className={`border-b bg-white hover:bg-gray-50  ${
