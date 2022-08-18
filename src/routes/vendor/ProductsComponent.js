@@ -45,7 +45,7 @@ const ProductsComponent = ({
         <td className="text-md w-12 max-w-lg truncate font-medium">
           <span>{productName}</span>
         </td>
-        <td>${summary}</td>
+        <td className="whitespace-pre-wrap">{summary}</td>
         <th>{price} LE</th>
         <th>{inStock || "Out of Stock"}</th>
         <th className="capitalize">{category}</th>
