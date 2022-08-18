@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Foodtrends/static/css/main.e85a8867.css",
-    "main.js": "/Foodtrends/static/js/main.7cb165f4.js",
+    "main.js": "/Foodtrends/static/js/main.018053bb.js",
     "static/media/eid.jpeg": "/Foodtrends/static/media/eid.1c6931e3d2972e17cc50.jpeg",
     "static/media/Payment-Error.jpg": "/Foodtrends/static/media/Payment-Error.e7d5e6e162a1023092e7.jpg",
     "static/media/asset 1.png": "/Foodtrends/static/media/asset 1.e87bc3c1587040117e83.png",
@@ -113,10 +113,10 @@
     "static/media/asset 84.svg": "/Foodtrends/static/media/asset 84.2a2970aa7a6f8eec6636.svg",
     "static/media/asset 100.svg": "/Foodtrends/static/media/asset 100.397a90e566900116fc6c.svg",
     "main.e85a8867.css.map": "/Foodtrends/static/css/main.e85a8867.css.map",
-    "main.7cb165f4.js.map": "/Foodtrends/static/js/main.7cb165f4.js.map"
+    "main.018053bb.js.map": "/Foodtrends/static/js/main.018053bb.js.map"
   },
   "entrypoints": [
     "static/css/main.e85a8867.css",
-    "static/js/main.7cb165f4.js"
+    "static/js/main.018053bb.js"
   ]
 }
